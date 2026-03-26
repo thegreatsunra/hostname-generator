@@ -1,99 +1,31 @@
 [
-  "able",   "abrupt", "acrid",  "adept",  "adroit", "afoot",  "agile",  "aglow",
-  "aged",   "airy",   "alert",  "alien",  "alike",  "alive",  "aloof",  "ample",
-  "antsy",  "arid",   "artsy",  "ashen",  "askew",  "astir",  "avid",   "acid",
-
-  "bald",   "bare",   "base",   "basic",  "bawdy",  "beady",  "bitty",  "bland",
-  "blank",  "bleak",  "bleary", "blond",  "blunt",  "blurry", "boggy",  "bold",
-  "bonny",  "bossy",  "brash",  "brave",  "briny",  "brisk",  "broad",  "burly",
-
-  "cagey",  "calm",   "campy",  "catchy", "catty",  "chary",  "cheap",  "chewy",
-  "chief",  "chill",  "civil",  "classy", "clean",  "clear",  "cold",   "comfy",
-  "cool",   "crafty", "crass",  "crisp",  "cross",  "crude",  "curt",   "cushy",
-
-  "damp",   "dandy",  "dapper", "dark",   "dazed",  "daffy",  "dead",   "deaf",
-  "dear",   "deep",   "deft",   "devout", "dewy",   "dingy",  "dire",   "dizzy",
-  "dodgy",  "dowdy",  "drab",   "drawn",  "dreary", "droll",  "dull",   "dusty",
-
-  "eager",  "earthy", "ebony",  "edgy",   "eerie",  "elated", "elfin",
-  "empty",  "epic",   "equal",  "erect",  "errant", "ersatz", "even",   "evil",
-  "exact",  "extra",
-
-  "fair",   "faint",  "fake",   "fancy",  "fast",   "feisty", "fickle", "fiery",
-  "firm",   "fitful", "flat",   "florid", "flush",  "fond",   "foul",
-  "frank",  "free",   "fresh",  "frilly", "full",   "fuzzy",
-
-  "gamey",  "garish", "gaudy",  "gaunt",  "gauzy",  "gawky",  "giddy",  "glib",
-  "glum",   "gloomy", "gnarly", "godly",  "good",   "goofy",  "gory",   "grand",
-  "greasy", "green",  "grimy",  "grim",   "gross",  "gruff",  "gusty",  "gangly",
-
-  "hale",   "handy",  "happy",  "hairy",  "hard",   "harsh",  "hasty",  "hazy",
-  "heady",  "hearty", "heavy",  "hectic", "hefty",  "high",   "hoary",  "hollow",
-  "holy",   "homely", "horrid", "huffy",  "huge",   "humble", "humid",  "hushed",
-  "husky",
-
-  "iced",   "icky",   "ideal",  "idle",   "imbued", "impure", "inane",  "inept",
-  "inert",  "infirm", "inky",   "inner",  "insane", "intact", "irate",  "ired",
-  "irked",  "ironic", "iron",   "itchy",  "ivory",
-
-  "jade",   "jagged", "jaggy",  "jaded",  "jaunty", "jazzy",  "jejune", "jocund",
-  "jolly",  "jovial", "joyful", "judgy",  "juicy",  "jumpy",  "just",
-
-  "kaput",  "karmic", "keen",   "kempt",  "kind",   "kindly", "kinky",  "kitsch",
-  "klutzy", "knobby", "knotty", "known",  "kooky",
-
-  "lame",   "lanky",  "last",   "late",   "lazy",   "leaky",  "lean",   "leery",
-  "leggy",  "level",  "lewd",   "limp",   "lithe",  "lively", "lone",   "long",
-  "loony",  "lost",   "loud",   "lucid",  "lucky",  "lumpy",  "lush",
-
-  "manly",  "manic",  "matey",  "meager", "mealy",  "meek",   "menial", "mellow",
-  "merry",  "messy",  "meaty",  "mighty", "mild",   "milky",  "minty",  "misty",
-  "moldy",  "moody",  "mouthy", "muddy",  "murky",  "musty",  "muted",
-
-  "naive",  "narrow", "nasty",  "natal",  "natty",  "naval",  "needy",  "neuter",
-  "nifty",  "nimble", "nippy",  "nice",   "noisy",  "nordic", "nosy",   "noble",
-  "numb",   "nutty",  "neon",
-
-  "oaken",  "obese",  "oblate", "oblong", "obtuse", "odious", "oily",   "open",
-  "opaque", "ornate", "ornery", "otiose", "outer",  "oval",   "overt",  "ovoid",
-  "owlish",
-
-  "pagan",  "pale",   "papery", "pastel", "pasty",  "patchy", "perky",  "petty",
-  "pink",   "placid", "plaid",  "plain",  "plump",  "plush",  "poky",   "potent",
-  "pouty",  "prim",   "prime",  "privy",  "proud",  "pudgy",  "puny",   "pure",
-
-  "quaint", "queasy", "queer",  "quick",  "quiet",  "quirky",
-
-  "rabid",  "racy",   "rancid", "rapt",   "rapid",  "rash",   "ratty",  "ready",
-  "real",   "regal",  "rich",   "rife",   "rigid",  "ripe",   "risky",  "rosy",
-  "rough",  "rowdy",  "ruddy",  "rugged", "rummy",  "runny",  "rural",
-
-  "safe",   "sage",   "sandy",  "sassy",  "savvy",  "scant",  "serene", "shady",
-  "shaky",  "sharp",  "sheer",  "sleek",  "slick",  "slim",   "slow",   "smart",
-  "smoky",  "smug",   "snarky", "snug",   "soft",   "soggy",  "sour",   "spare",
-  "spiny",  "stark",  "stern",  "stout",  "suave",  "sure",   "surly",  "svelte",
-  "sweet",  "swift",
-
-  "tacky",  "tall",   "tame",   "tardy",  "tart",   "tasty",  "tatty",  "taut",
-  "tawdry", "tepid",  "terse",  "thick",  "thin",   "tidy",   "tight",  "timid",
-  "tiny",   "tipsy",  "tired",  "toasty", "touchy", "toxic",  "trim",   "trite",
-  "true",   "tubby",
-
-  "umbral", "unclad", "undead", "undone", "undue",  "unfair", "unfit",  "unkind",
-  "unlit",  "unmet",  "unhurt", "unruly", "unsung", "untrue", "upper",  "upbeat",
-  "urban",  "urgent", "utter",
-
-  "vague",  "vain",   "valid",  "vapid",  "varied", "vast",   "venal",  "vexed",
-  "vexing", "vile",   "viral",  "virid",  "virile", "vital",  "vivid",  "vocal",
-  "votive", "vulgar",
-
-  "wacky",  "wanton", "warped", "warm",   "wary",   "washed", "wavy",   "weak",
-  "weary",  "weedy",  "weird",  "white",  "wide",   "wild",   "wiry",   "wise",
-  "witty",  "wobbly", "woeful", "wonky",  "woozy",  "worn",   "wroth",
-
-  "xenial", "xeric",
-
-  "yare",   "yearly", "yellow", "yonder", "young",  "yummy",
-
-  "zany",   "zesty",  "zippy",  "zonal",  "zonked"
+  "able", "acid", "aged", "airy", "avid", "deft", "lush", "rash", "zany",
+  "bald", "bare", "base", "bold",
+  "calm", "cold", "cool",
+  "dark", "damp", "dire", "drab", "dull",
+  "easy", "edgy", "epic", "even", "evil",
+  "fair", "fake", "fast", "firm", "flat", "fond", "foul", "free", "full",
+  "good", "grim",
+  "hard", "hazy", "high", "holy", "huge",
+  "iron", "jade", "keen", "kind",
+  "last", "late", "lazy", "lean", "lone", "long", "lost", "loud",
+  "mild", "nice", "numb",
+  "pale", "pink", "pure",
+  "real", "rich", "ripe", "rosy",
+  "safe", "sage", "slim", "slow", "soft", "sour", "sure",
+  "tall", "tame", "taut", "thin", "tiny", "tidy", "true",
+  "vain", "vast", "vile",
+  "warm", "wavy", "weak", "wide", "wild", "wise", "worn",
+  "agile", "aloof", "ashen",
+  "brash", "brave", "brisk", "broad",
+  "cheap", "clean", "clear", "chill", "crisp",
+  "dusty", "eager",
+  "faint", "fancy", "fiery", "frank", "fresh", "fuzzy",
+  "grand", "green", "grimy", "gruff",
+  "happy", "hasty", "hefty",
+  "itchy", "ivory",
+  "lanky", "lithe", "lucky",
+  "misty", "murky", "naive", "nifty", "noble",
+  "rough", "sandy", "sharp", "spare", "stark", "stern", "stout",
+  "terse", "tired", "vivid", "weird"
 ]
