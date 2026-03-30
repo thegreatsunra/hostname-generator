@@ -4,18 +4,16 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Hostname Generator</title>
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="css/vendor/pico.min.css">
 </head>
 <body>
-  <main>
-    <header>
+  <main class="container">
+    <hgroup>
       <h1>Hostname Generator</h1>
-      <p class="subtitle">Generates hostnames in <code>name@adjectivenoun</code> format</p>
-    </header>
+      <p>Generates hostnames in <code>name@adjectivenoun</code> format</p>
+    </hgroup>
 
-    <section aria-label="Generated hostnames">
-      <ol id="hostname-list"></ol>
-    </section>
+    <ul id="hostname-list"></ul>
 
     <footer>
       <button id="regenerate-btn" type="button">Regenerate</button>
